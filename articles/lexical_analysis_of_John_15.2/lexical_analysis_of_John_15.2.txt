@@ -1,0 +1,96 @@
+﻿A Lexical Analysis of John 15:2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Daniel Rangel
+December 15, 2023
+________________
+
+
+Introduction
+The meaning of 'αἴρω' in John 15:2 has been the product of much debate. Some argue that the true meaning behind the word is ‘to lift up.’ On the other side, there are others who say that ‘to remove’ is the correct translation. Upon examining this issue, 54 Bible translations were consulted: 32 of them in English, 16 in Spanish, and 6 in Italian. All of them translate the word as either one of the following four options: ‘remove,’ ‘take away,’ ‘cut off,’ or ‘break off.’ There was no translation found that translated the word as ‘too lift up.’ 
+Early meanings of the word  'αἴρω' were also referenced and it was noted that the term 'αἴρω' in the New Testament encompasses a diverse array of meanings. As outlined in the BDAG lexicon, these meanings include: 'to raise up' (elevating to a higher position), 'to lift up' (moving from one place to another), 'to take away' (implying seizure), 'to withdraw' (used in a commercial context), 'to keep in suspense,' and 'to raise a ship’s anchor.' Among these, the interpretations 'to raise up,' to take up,’  and 'to take away' receive the most support from both Biblical and extra-Biblical sources, with 'to take away' being the choice with the most support.  Each of these major categories of the term 'αἴρω' further divides into distinct subcategories. For instance, 'to raise up (elevate)' includes scenarios like temporarily lifting something or someone, as seen in Revelation 18:21. Within this interpretation no permanent relocation is implied, only a momentary one. Yet, it can also denote elevation with the intention of disposal, as in John 8:59, or elevating solely for the sake of act itself, as exemplified in Mark 16:18. The category 'to lift up (relocate)' encompasses subcategories such as lifting for relocation or carrying on a journey Some instances of these are illustrated in Mark 6:29, Matthew 16:24, Matthew 27:32, and Mark 8:34. This notion sometimes extends to removal, as noted in John 2:16 and John 17:15. The latter main category and its subcategories present a more consistent theme: they invariably suggest the removal of one entity from another, whether through force, destruction, or severance. Examples of these can be found in Colossians 2:14, John 19:15, and Luke 11:22.
+New Testament Usage
+The word αἴρω happens 26 times in the book of John. Only within the context of two passages (not counting the text being examined) does it mean something other than ‘to take away.’ Those passages are 5:8-12 when talking about the bed of the paralytic man that was ‘picked up’ and in 10:24 where the Sanhedrin assembly is described as ‘held in suspense.’ Any other instance of this word in the Johannine context conveys the action of removal. The frequency of 'αἴρω' in the New Testament varies among the books, with John recording the highest number of instances. Comparatively, the other three Gospels have fewer occurrences: Matthew mentions it 19 times, while both Luke and Mark cite it 20 times each. In Matthew, 'αἴρω' predominantly implies taking or lifting something, with fewer instances indicating removal. Mark presents a more balanced usage, employing the word to denote removal more often than Matthew does, yet, still primarily suggesting the action of taking or carrying something. Luke's use of the term achieves a greater balance than Mark's, nearly equalizing the instances of conveying both taking/ carrying and removal. Outside of the Gospels, 'αἴρω' appears 15 times in other New Testament books, most commonly with the meaning of removal.
+Turning to the immediate context of John 15, it is clear that verses 1-17 talk about the necessity of remaining in Jesus Christ and the consequences of not doing so. He wants his audience to know that if they do not remain in Christ, the only thing that awaits them is death. He also explains that those who remain in God will subsequently produce the fruit of love[1]. He who obeys God and keeps his commandments, says John, is the one who loves God. From verse 18 to verse 17 John contrasts this passage by averting Christians about the ramifications that loving God will entail. He reveals to all Christians that if they want to be faithful to God, they will experience persecution.[2] To present this message to his readers, John employs the metaphor of a vineyard and a vinedresser in verses 1-6. The verse in scope, verse 2,  enunciates that those branches which do not produce fruit αἴρει αὐτό, which as we said, is debated to mean ‘to lift up’ or to ‘remove.’ 
+Removing a branch that was dry, too wide, or twisted was a common practice in viticulture.[3] In doing so, the farmer was assuring that those branches that were younger and bore fruit received more nutrients.[4] The idea that αἴρει stands for cutting off is strengthened when bearing in mind the paronomasia between the verbs αἴρει and καθαίρει (to cut off and to prune, respectively).[5] The combination of these two verbs is not particular to the New Testament, however. Raymond Brown states that “In the examples that commentators usually give from Philo, kathairein is accompanied by another verb meaning ’to cut.’.”[6] Carson agrees with this paronomasia and the idea that the meaning of 'αἴρω' in this verse is to be translated as ‘to cut off.’[7] According to him, these dry branches are apostate Christians like Judas Iscariot who refused to be regenerated by the grace of God since the beginning.[8] J. R. Michels is of the same opinion as Carson on almost every claim, including the comparison of dead branches to Judas Iscariot.[9] On the other hand, lexical analyses of the word αἴρω express that its use to connote a negative meaning like ‘remove’ does not really occur outside New Testament writings.[10] Thus, it is reasonable to see how some argue for the interpretation of 'αἴρω' to be ‘to lift up’. 
+But to have a better understanding of what John meant when he employed the term it is necessary to look at the broader context (chapters 13-17). This section is known as the Farewell Discourse, it encapsulates Jesus' final teachings to his disciples, set against the backdrop of the Last Supper before his crucifixion. In chapter 13, Jesus demonstrates servanthood and love through the washing of the disciples' feet, followed by the prediction of his betrayal and Peter's denial. Chapter 14 shifts the focus to comfort and hope, as Jesus assures his disciples of his return and the coming of the Holy Spirit, emphasizing the importance of faith and obedience. Thus getting them ready for chapter 15. Chapter 16 encourages the disciples with the promise of peace and victory. Finally, chapter 17 records Jesus’ prayer for his disciples and all future believers. The discourse, especially chapter 15, stands as a profound reflection on the nature of the relationship between Jesus and his disciples. Chapter 13 specifically gives a clear example of the two branches that John talks about in 15:2. On the one hand we have Peter, that branch which produces fruit and will be pruned so that he may produce more fruit. And on the other hand, there is Iscariot, the branch that failed to remain in Christ and will go on to betray Him, subsequently ending his own his life. If the broader context alludes to any meaning of 'αἴρω' in John 15:2, therefore, it is the idea that any branch that fails to produce fruit will be cut off from Christ.  
+Weighing the Evidence
+This analysis draws on a range of Bible translations and the expertise of New Testament scholars. The consensus interpretation of 'αἴρω' is more persuasively rendered as “...He takes away…” This interpretation is supported by unanimous agreement among the 54 Bible translations reviewed and the concurrence of all four New Testament scholars consulted. This conclusion is further strengthened by John's consistent use of 'αἴρω' to imply actions like removing or taking away, rather than positive actions like lifting up or raising. Additionally, the immediate context of the verse seems incompatible with the translation “...He lifts up…” In verse 6, the Lord Jesus Christ describes men as branches, suggesting those who do not remain in Him are cast off rather than lifted up. What follows this conclusion, then, is the question, what are the implications of this translation? 
+Cons
+The cons of translating 'αἴρω' as “...He takes away…” is to add another verse to account for within the doctrine of the eternal security of the believer (i.e. once saved always saved). It seems to me that most of those who opt for the positive meaning of 'αἴρω' do this as a necessity to account for such a doctrinal viewpoint, rather than with the intent of being faithful to the text. 
+Pros
+The pros of translating 'αἴρω' as “...He takes away…” is that we can be more confident that we are being faithful to God’s Holy Word. It is true that the idea of God lifting up those who do not produce fruit is more comforting than to think He is about to cast them out. But that is the reason for performing exegesis with our brain and not with our heart. The role of the heart in the process of exegesis should be to receive the truth of God’s word, but never to influence its meaning. The goal is to be true to the Word not to our cultural or personal values and desires. I believe the Bible to teach eternal security, but I also believe it to teach that a branch can indeed choose to dry off and thus, be cut off. How do I reconcile the two? I don’t. I am okay with waiting to have the question answered until I get to ask my Lord personally. Until then, I shall continue to sanctify myself as if I could be cut off and continue to live in gratitude as if I could not.
+
+
+________________
+
+
+Bibliography
+αἴρω G149 (airō), to Lift, Carry, Take Away, Remove, Do Away With; ἀπαίρω G554 (apairō), to Take Away; ἐξαίρω G1976 (exairō), to Remove; ἐπαίρω G2048 (epairō), to Lift Up, Hold Up; μεταίρω G3558 (metairō), to Remove, Intrans. Depart." In New International Dictionary of New Testament Theology and Exegesis, edited by Moises Silva, Zondervan, 2014; Marianne Meye Thompson, John: A Commentary. Louisville, KY: Presbyterian Publishing Corporation, 2015. Accessed December 13, 2023, ProQuest Ebook Central.
+
+
+Brown, Raymond Edward. The Gospel and Epistles of John: A Concise Commentary. United States: Liturgical Press, 1988. 
+
+
+Beasley-Murray, George R.. John, Volume 36: Revised Edition, Word Biblical Commentary, Revised edition. Grand Rapids, Michigan: Zondervan Academic, 2018.
+
+
+
+
+D. A. Carson, D. A. The Gospel According to John. United Kingdom: Wm. B. Eerdmans Publishing Company, 1990.
+
+
+Keener, Craig S..The Gospel of John: A Commentary. United States: Hendrickson Publishers, 2010.
+
+
+Keener, Craig S.. John: Volume 2A. Zondervan Illustrated Bible Backgrounds Commentary. Grand Rapids, Michigan: Zondervan Academic, 2019.
+
+
+Michaels, Ramsey.  The Gospel of John. United States: Wm. B. Eerdmans Publishing Company, 2010.
+
+
+
+
+________________
+[1] Craig S. Keener, The Gospel of John: A Commentary (United States: Hendrickson Publishers, 2010), 988.
+
+
+[2] The nature of the persecution is not denoted.
+
+
+[3] Ibid., 996.
+
+
+[4] Craig S. Keener, John: Volume 2A, Zondervan Illustrated Bible Backgrounds Commentary (Grand Rapids, Michigan: Zondervan Academic, 2019), 1.
+
+
+[5] Raymond Edward Brown, The Gospel and Epistles of John: A Concise Commentary (United States: Liturgical Press, 1988), 660; George R. Beasley-Murray, John, Volume 36: Revised Edition, Word Biblical Commentary, Revised edition (Grand Rapids, Michigan: Zondervan Academic, 2018), 280.
+
+
+[6] Ibid., 660.
+
+
+[7] D. A. Carson, The Gospel According to John (United Kingdom: Wm. B. Eerdmans Publishing Company, 1990) 515.
+
+
+[8] Ibid., 515
+
+
+[9] J. Ramsey Michaels, The Gospel of John (United States: Wm. B. Eerdmans Publishing Company, 2010).
+
+
+[10] αἴρω G149 (airō), to Lift, Carry, Take Away, Remove, Do Away With; ἀπαίρω G554 (apairō), to Take Away; ἐξαίρω G1976 (exairō), to Remove; ἐπαίρω G2048 (epairō), to Lift Up, Hold Up; μεταίρω G3558 (metairō), to Remove, Intrans. Depart." In New International Dictionary of New Testament Theology and Exegesis, edited by Moises Silva, Zondervan, 2014; Marianne Meye Thompson, John: A Commentary (Louisville, KY: Presbyterian Publishing Corporation, 2015), accessed December 13, 2023, ProQuest Ebook Central.
