@@ -1,3 +1,4 @@
 **/resources/
 commentaries
 *.mp3
+.DS_Store
