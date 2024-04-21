@@ -1,0 +1,72 @@
+﻿Concise Textual Criticism on a Few Selected Verses
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Daniel Rangel
+October 31, 2023
+________________
+Mark 11:26
+The UBSGNT omits this verse and the editors tell us through the apparatus (level {A}) that they are quite certain that this is the case in the original. The omission of verse 26 includes great majuscule material support: א B L Δ W, and good minuscule support: 157, as well as early Latin versions. The second variant, which supports the inclusion of verse 26 and whose apparatus outnumbers the first one in the number of witnesses, also includes early majuscules A, C, and D. Significant manuscript families, f1 and f13 are also used. Some of the Majority Group witnesses (whose position in the text is disputed) form part of the list also: Byz [E F G H N Σ]. This seems to be the product of a Harmonistic corruption by a scribe. This could be explained by looking at the previous verse in each chapter, Matt. 6:14 and Mark 11:25. They both speak about forgiving others in order to be forgiven in return. It is possible that, with the goal of harmonization in mind between the two passages, the scribe added verse 26 to Mark: ει δε υμεις ουκ αφιετε ουδε ο πατηρ υμων ο εν τοις ουρανοις αφησει τα παραπτωματα υμων
+Luke 15:21
+The editors place an {A} certainty level on the rendering of the text υιος σου. Support for this selection comes from a significant Papyri group, P75, and significant Majuscule sources: A L W Δ. Other Minuscules, and a few (disputed) Byzantine sources [E G H N Q P] are also present. The second variant, which reads υιος σου. ποιησον με ώς ένα των μισθίων σου (your son. Make me as one of your servants), has as support Majuscules: א B. This variant also counts with the support of various lectionaries, Old Latin, Vulgate Syriac, and other early translations. Taking the position that the editors are correct, the second variant could be argued to be a Parablepsis error, since verse 19 is composed of the same words as the ending of verse 21: ουκετι ειμι αξιος κληθηναι υιος σου. Ποιησον με ως ένα των μισθίων. The scribe perhaps, once taking his eyes off the exemplar copy,  returned to write the next line and noticed he was ”missing” the line in bold above and therefore added it. There is another option, however, and that is the one I prefer: And error of the mind (Assimilation of wording). Due to the similarity of verses 19 and 21, the scribe added the line in black above. 
+1 Corinthians 15:48
+The apparatus for this source is a little conflicting in terms of preeminence. On the one hand, the chosen text, φορεσομεν (we will bear) whose level of certainty is {B} has as support only a few Majuscules: B I 0150 6 1852 and an okay lectionary support. On the other hand, the second variant φορεσωμεν (we might bear) is supported by great witnesses:  א A C D F, Byzantine manuscripts, and many church fathers' citations. Including Marcion through Tertullian and Origin. Taking that the text chosen is correct, the error in this verse is most probably an error of hearing. When the exemplar copy was read aloud, the scribe failed to differentiate between the omicron (φορεσομεν) and the omega (φορεσωμεν). 
+1 John 3:1
+The selected reading includes και εσμεν (and we are) and has a strong level of certainty: {A}. The support for the rendering of “we are” comes from reputable Majuscules: א A B C. It also has as supporters a vast list of Minuscules, encompassing the early Minuscule 5, lectionaries, early translations, and church father citations. Perhaps Justin and Augustine are the most probable readings of the manuscript. The error of the second variant is most probably a Parablepsis error. If we look at the preceding clause we notice a similar ending between κληθῶμεν and ἐσμέν. Seems as if by the time the eyes of the scribe returned to the paper copy,  he jumped to εσμεν rather than continuing from κληθῶμεν.
+1 Thessalonians 2:7
+External Evidence 
+While ἤπιοι is the most popular term in our English Bibles and has the greatest Byzantine support, νήπιοι proves to be superior in terms of age. νήπιοι is the most well-distributed across the Alexandrian family, being present in all of the five groups. However, ἤπιοι only appears in three of them. When looking at the greatest quantity of witnesses, it is evident that the sources for ἤπιοι are larger in count. The count for ἤπιοι is ±39, against the smaller number for νήπιοι ±24. But this result is countered by the distribution of the text among the 5 possible cells in the grid (5 families x 5 groups). Whereas ἤπιοι only appears in 13 of the cells, νήπιοι appears in 14. νήπιοι seems to hold the place of the original text.
+Internal Evidence: The Scribal Factors 
+The scribal alteration present in the variant has many possibilities. It could have been an error of hearing, an error of similar appearance, Dittography, or an intentional change for harmonical, doctrinal, or spelling considerations. The complexity of the matter does not allow for one possible conclusion.
+Internal Evidence: The Best Fit for the Context
+Paul has made clear in the verse previous that he was not seeking to display his authority as an apostle, thus to render the text as “child” would bring emphasis and support to his point. Taking into account verses 7, 8, and 11, Paul seems to be forming a familial analogy of his relationship with the Thessalonians.
+Conclusion
+In Weima’s perspective, Paul wants the Thessalonians to be sure of the type of character he had towards them during his visit. He uses three denials followed by a parenthetical comment[1] and in each, Paul assures the Thessalonians that he did not come to take advantage of them. He then emphasizes this foundation by the use of an analogy where he poses himself as a child (v. 7), a mother (v. 8), and a father (v. 11). Thus, the rendering of “child” makes the most sense.
+
+
+F. F. Bruce, on the other hand, agrees with the strong support for the rendering of “child” but discards it as a dittography to the final letter of εγενηθημεν.[2] According to him, it does not fit the context because Paul is not comparing himself to a child but rather to a parent who cares for his children. In addition to Bruce’s and Weima’s opinions, it is worth noting the selected reading of modern translations: 
+NIV = children, ESV = gentle, NLT = children, NET = children, NKJV = gentle.
+
+
+{B} νήπιοι.
+________________
+
+
+Bibliography
+Weima, Jeffrey A. D. 1-2 Thessalonians. Baker Exegetical Commentary on the New Testament. Grand Rapids: Baker Academic, 2014, 138. 
+
+
+Bruce, F. F. 1 and 2 Thessalonians, Volume 45. Word Biblical Commentary. Grand Rapids, Michigan: Zondervan Academic, 2015.
+
+
+Wallace, Daniel B. "Was Paul a 'Babe’ among the Thessalonians? 1 Thes 2:7." Bible.org, June 25, 2004. https://bible.org/article/was-paul-8216babe%E2%80%99-among-thessalonians-1-thes-27.
+
+
+
+
+
+
+________________
+[1] Weima, Jeffrey A. D.. 1-2 Thessalonians (Baker Exegetical Commentary on the New Testament), (Grand Rapids: Baker Academic, 2014), 138.
+
+
+[2] F. F. Bruce, 1 and 2 Thessalonians, Volume 45, Word Biblical Commentary (Grand Rapids, Michigan: Zondervan Academic, 2015), 31.
