@@ -1,0 +1,99 @@
+{{ template "single_post_base" .}} {{define "css"}}
+<link
+  href="/public/css/posts/linguistics.css"
+  rel="stylesheet"
+  type="text/css"
+/>{{end}} {{define "body"}}
+
+  
+
+  
+    <div
+      class="single-post-thumbnail d-flex align-items-center justify-content-center mb-6"
+    >
+      <img
+        src="/public/images/writing/italian_passato_imperfetto_indicative.webp"
+        alt="conjugation of the Italian passato imperfetto"
+      />
+    
+    Introduction
+    
+      The passato imperfetto is used for ongoing or habitual
+      actions in the past. It signifies that an action not only happened once,
+      but it was an ongoing action. The imperfect past is second to the perfect
+      past in terms of popularity and day-to-day usage, meaning that it is used
+      extensively in prolonged conversations.
+      <span class="bg-eta"
+        >A solid knowledge of the passato prossimo and the
+        passato imperfetto will render the learner ready with most
+        of the past conjugations needed to carry a meaningful conversation in
+        Italian.</span
+      >
+      This tense does not make use of a helping verb like the
+      passato perfetto does. There are also fewer irregular cases.
+    
+
+    Conjugation
+    
+      
+        -are
+        
+          Singular: avo, avi, ava
+          Plural: avamo, avate, avano
+        
+      
+      
+        -ere
+        
+          Singular: evo, evi, eva
+          Plural: evamo, evate, evano
+        
+      
+      
+        -ire
+        
+          Singular: ivo, ivi, iva
+          Plural: ivamo, ivate, ivano
+        
+      
+    
+
+    When to Use
+    
+      It may be used in most situations where the English “I used to …” or “I
+      was …” would satisfy the case.
+    
+
+    Examples
+    
+      Ongoing Actions in the Past:
+      
+        🇮🇹 Mangiavo una mela quando mi hai chiamato.
+        🇲🇽 Comía una manzana cuando me llamaste.
+        🇺🇸 I was eating an apple when you called me.
+      
+    
+
+    
+      Habitual Actions in the Past:
+      
+        🇮🇹 Andavo a scuola tutti i giorni.
+        🇲🇽 Iba a la escuela todos los días.
+        🇺🇸 I used to go to school every day.
+      
+    
+
+    
+      Background Descriptions:
+      
+        🇮🇹 Era una giornata piovosa.
+        🇲🇽 Era un día lluvioso.
+        🇺🇸 It was a rainy day.
+      
+    
+
+    To Christ be the Glory!
+    Luke 17:10
+  
+
+{{end}}

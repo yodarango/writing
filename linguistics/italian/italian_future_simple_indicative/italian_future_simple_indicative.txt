@@ -1,0 +1,130 @@
+{{ template "single_post_base" .}} {{define "css"}}
+<link
+  href="/public/css/posts/linguistics.css"
+  rel="stylesheet"
+  type="text/css"
+/>{{end}} {{define "body"}}
+
+  
+
+  
+    <div
+      class="single-post-thumbnail d-flex align-items-center justify-content-center mb-6"
+    >
+      <img
+        src="/public/images/writing/italian_future_simple_indicative.webp"
+        alt="conjugation of the Italian futuro semplice"
+      />
+    
+    Futuro Semplice
+    
+      The future simple in Italian is used to indicate any action that is
+      programmed or that has the possibility to happen in the future. This is
+      perhaps the aspect of the future that agrees the most in all languages.
+    
+
+    
+      Example:
+      
+        Domani andrò a Roma.
+      
+    
+
+    
+      It can also be used epistemically. The epistemic future expresses doubt.
+      Spanish uses this form quite commonly as well.
+    
+
+    
+      Example:
+      
+        Sarà Monica all’università?
+      
+    
+
+    
+      There is yet another use called the concessive use, which acknowledges a
+      fact to be true but not worthy of importance. An aspect of the future that
+      Spanish also uses to denote or emphasize disregard for a factual claim.
+    
+
+    
+      Example:
+      
+        
+          Queste scarpe saranno di moda, ma non mi piacciono affatto.
+        
+      
+    
+
+    
+      As opposed to the other tenses,
+      <span class="bg-eta"
+        >the conjugation of the future tense does not begin from the stem of the
+        verb, but rather from the very last vowel of each of the three
+        endings.</span
+      >
+    
+
+    
+      Example:
+      
+        
+          Partire is not conjugated from the stem
+          part</i
+          >, but from partir</i
+          >.
+        
+      
+    
+
+    
+      This is quite nice because it allows the conjugations to share the same
+      inflections for all three endings (are, ere, ire).
+    
+
+    Conjugation
+    
+      Singular: -ò, ai, à
+      Plural: -emo, -ete, -anno
+    
+
+    
+      However, for verbs ending in -are, the A must be replaced with an
+      E. Therefore, in reality, it is left with only two endings,
+      -ere and -ire.
+    
+
+    Examples
+    
+      Actions That Will Happen in the Future:
+      
+        🇮🇹 Domani mangerò una mela.
+        🇲🇽 Mañana comeré una manzana.
+        🇺🇸 Tomorrow I will eat an apple.
+      
+    
+
+    
+      Promises or Predictions:
+      
+        🇮🇹 Farò del mio meglio.
+        🇲🇽 Haré lo mejor que pueda.
+        🇺🇸 I will do my best.
+      
+    
+
+    
+      Scheduled Actions:
+      
+        🇮🇹 Partiremo per Roma la prossima settimana.
+        🇲🇽 Partiremos para Roma la próxima semana.
+        🇺🇸 We will leave for Rome next week.
+      
+    
+
+    To Christ be the Glory!
+    Luke 17:10
+  
+
+{{end}}

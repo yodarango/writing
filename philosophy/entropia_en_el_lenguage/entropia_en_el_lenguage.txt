@@ -1,0 +1,24 @@
+{{ template "single_post_base" .}} {{define "css"}} {{end}} {{define "body"}}
+
+  
+
+  <div
+    class="single-post-thumbnail d-flex align-items-center justify-content-center mb-6"
+  >
+    <img
+      src="/public/images/writing/thumbnails/{{.Data.Thumbnail}}"
+      alt="{{.Data.Title}}"
+    />
+  
+  
+    Existe una ley en la termodinámica que dice que todas las cosas tienden a un
+    estado de mayor deterioro. Me parece que esta ley se aplica no solo al mundo
+    físico, sino también al mundo de lo abstracto. Por ejemplo, las palabras,
+    que alguna vez tuvieron un significado muy intenso, con el uso frecuente,
+    con el tiempo pierden esta intensidad. La palabra 'terrible', por ejemplo,
+    en el pasado representaba algo particularmente aterrador. Sin embargo hoy la
+    encontramos utilizada en las conversaciones cotidianas. de esta manera el
+    ciclo se repite, creando la necesidad de nuevas palabras.
+  
+
+{{end}}

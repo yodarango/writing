@@ -1,0 +1,24 @@
+{{ template "single_post_base" .}} {{define "css"}} {{end}} {{define "body"}}
+
+  
+
+  <div
+    class="single-post-thumbnail d-flex align-items-center justify-content-center mb-6"
+  >
+    <img
+      src="/public/images/writing/thumbnails/{{.Data.Thumbnail}}"
+      alt="{{.Data.Title}}"
+    />
+  
+  
+    C'è una legge nella termodinamica che dice che tutte le cose tendono a uno
+    stato di maggiore deterioramento. A me sembra che questa legge si applichi
+    non solo al mondo fisico, ma anche al mondo dello astratto. Per esempio, le
+    parole, che una volta avevano un significato molto intenso, con l'uso
+    frequente nel tempo perdono questa intensità. La parola 'terribile', ad
+    esempio, in passato rappresentava qualcosa di particolarmente spaventoso. Ma
+    oggi la troviamo usata nelle conversazioni quotidiane. Questo ciclo si
+    repete, creando la necessità per nuove parole.
+  
+
+{{end}}

@@ -1,0 +1,102 @@
+{{ template "single_post_base" .}} {{define "css"}}
+<link
+  href="/public/css/posts/linguistics.css"
+  rel="stylesheet"
+  type="text/css"
+/>{{end}} {{define "body"}}
+
+  
+
+  
+    <div
+      class="single-post-thumbnail d-flex align-items-center justify-content-center mb-6"
+    >
+      <img
+        src="/public/images/writing/italian_presente_condizionale_indicative.webp"
+        alt="conjugation of the Italian presente condizionale"
+      />
+    
+    Introduction
+    
+      The presente condizionale makes for a long conjugation
+      because it starts from the infinitive verb (omitting the ending E),
+      rather than from the stem, as other verbs. Thus to form the conditional
+      form of the verb mettere</i
+      >, we start from metter</i
+      >. Nonetheless, this is a relatively easy conjugation since all the
+      regular verbs follow the same endings without exceptions. Therefore, the
+      following endings apply to verbs ending in
+      -are, -ere, -ire:
+    
+
+    
+      Singular: erei, esti, ebbe
+      Plural: emmo, este, ebbero
+    
+
+    
+      There is one important note about the verbs ending in
+      -are. The ending A is exchanged for an
+      E. Therefore, we would not start from pagar</i
+      >, but from pagher</i
+      >. Notice also the addition of the H in order to keep a consistent
+      pronunciation. While talking about pronunciation, it must be kept in mind
+      that verbs ending in -iare eradicate the I.
+    
+
+    
+      Example:
+      
+        mangiare → mangerei
+      
+    
+
+    When to Use
+    
+      It may be used in most situations where the English “I would …” or “I
+      could…” satisfies the case or where the Spanish 1PS verb
+      -ia satisfies the case.
+    
+
+    Examples
+    
+      Hypothetical Situations:
+      
+        🇮🇹 Comprerei una casa se avessi i soldi.
+        🇲🇽 Compraría una casa si tuviera el dinero.
+        🇺🇸 I would buy a house if I had the money.
+      
+    
+
+    
+      Polite Requests:
+      
+        🇮🇹 Mi passeresti il sale, per favore?
+        🇲🇽 ¿Me pasarías la sal, por favor?
+        🇺🇸 Would you pass me the salt, please?
+      
+    
+
+    
+      Expressing Wishes or Desires:
+      
+        🇮🇹 Vorrei andare in vacanza quest'estate.
+        🇲🇽 Me gustaría ir de vacaciones este verano.
+        🇺🇸 I would like to go on vacation this summer.
+      
+    
+
+    
+      Giving Advice or Suggestions:
+      
+        🇮🇹 Dovresti studiare di più per l’esame.
+        🇲🇽 Deberías estudiar más para el examen.
+        🇺🇸 You should study more for the exam.
+      
+    
+
+    To Christ be the Glory!
+    Luke 17:10
+  
+
+{{end}}

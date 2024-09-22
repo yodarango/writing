@@ -1,0 +1,206 @@
+{{ template "single_post_base" .}} {{define "css"}}
+<link
+  href="/public/css/posts/linguistics.css"
+  rel="stylesheet"
+  type="text/css"
+/>{{end}} {{define "body"}}
+
+
+  
+
+  
+    <div
+      class="single-post-thumbnail d-flex align-items-center justify-content-center mb-6"
+    >
+      <img
+        src="/public/images/writing/italian_passato_remoto_Indicative.webp"
+        alt="conjugation of the Italian passato remoto"
+      />
+    
+    Introduction
+    
+      The passato remoto has been gradually disappearing from the
+      Italian tongue. In some parts of Italy this vanishing is taking place at a
+      faster pace. It is safe to say that, although this tense is still used in
+      daily conversations, its use has come to be reserved almost exclusively to
+      formal writing. One of the factors that have brought this tense to its
+      present state is its many irregularities. Though the conjugations below
+      apply to the majority of verbs, the verbs that break these rules are many.
+    
+
+    
+      
+        -are
+        
+          Singular: ai, asti, ò
+          Plural: ammo, aste, arono
+        
+      
+      
+        -ere
+        
+          For the second conjugation “-ere,” it is important to mention that
+          there are two possible endings for the 1S, 3S, and 3P as displayed
+          below.
+        
+        
+          Singular: ei/etti, esti, è/ette
+          Plural: emmo, este, erono/ettero
+        
+      
+      
+        -ire
+        
+          Singular: ii, isti, ì
+          Plural: immo, iste, irono
+        
+      
+    
+
+    Irregularities
+
+    
+      Most differentiable irregularities happen in the verbs essere</i
+      >, as well as in the modal verbs—as is their tendency in many languages.
+      The most common modal verbs are
+      dovere, potere, volere, sapere.
+    
+
+    
+      All verbs whose stem ends in V, M, R, T, GG, or RR replace
+      each of these instances with SS. This change only happens in the
+      1S, 3S, and 3P, nonetheless.
+    
+    
+      Examples:
+      
+        io lego → io lessi
+        lui/lei leggi → lui/lei lesse
+        loro leggono → loro lessero
+      
+    
+
+    
+      To these irregularities, there are more irregularities, as is to be
+      expected. Some verbs do not get a double S but a single S.
+    
+
+    
+      Verbs whose stem ends in N, V, or ND are ended in a single
+      S.
+    
+    
+      Examples:
+      
+        io prendo → io presi
+        lui/lei prende → lui/lei prese
+        loro prendono → loro presero
+      
+    
+
+    
+      Yet, verbs whose stem ends not in ND but in D will replace
+      the D with a single S.
+    
+    
+      Examples:
+      
+        io chiudo → io chiusi
+        lui/lei chiude → lui/lei chiuse
+        loro chiudono → loro chiusero
+      
+    
+
+    
+      Verbs whose stem ends in SC will replace it with CQU in the
+      1S, 3S, and 3P.
+    
+    
+      Examples:
+      
+        io piacio → io piacqui
+        lui/lei piace → lui/lei piacque
+        loro piaciono → loro piacquero
+      
+    
+
+    
+      An irregularity to this irregularity is the verb
+      conoscere, which, though ending in SC adopts
+      BB
+      instead of CQU.
+    
+
+    
+      Verbs whose stem ends in NG adopt NS instead.
+    
+    
+      Examples:
+      
+        io fingo → io finsi
+        lui/lei finge → lui/lei finse
+        loro fingono → loro finsero
+      
+    
+
+    
+      Other verbs whose stem ends in GLI will take NS
+    
+    
+      Examples:
+      
+        io toglio → io tolsi
+        lui/lei toglie → tolse
+        loro togliono → loro tolsero
+      
+    
+
+    Verbs whose stem ends in RG will take RS
+    
+      Examples:
+      
+        io scorgo → io scorsi
+        lui/lei scorge → lui/lei scorse
+        loro scorgono → loro scorsero
+      
+    
+
+    When to Use
+    
+      It may be used in most situations where the English “I did” would satisfy
+      the case.
+    
+
+    Examples
+    
+      Historical or Distant Past Actions:
+      
+        🇮🇹 Dante scrisse la Divina Commedia.
+        🇲🇽 Dante escribió la Divina Comedia.
+        🇺🇸 Dante wrote the Divine Comedy.
+      
+    
+
+    
+      Completed Actions in the Distant Past:
+      
+        🇮🇹 Colombo scoprì l’America nel 1492.
+        🇲🇽 Colón descubrió América en 1492.
+        🇺🇸 Columbus discovered America in 1492.
+      
+    
+
+    
+      Narration of Past Events:
+      
+        🇮🇹 Il re morì e il popolo pianse.
+        🇲🇽 El rey murió y el pueblo lloró.
+        🇺🇸 The king died, and the people wept.
+      
+    
+
+    To Christ be the Glory!
+    Luke 17:10
+  
+
+{{end}}

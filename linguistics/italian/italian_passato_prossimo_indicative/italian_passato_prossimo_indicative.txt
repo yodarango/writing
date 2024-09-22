@@ -1,0 +1,115 @@
+{{ template "single_post_base" .}} {{define "css"}}
+<link
+  href="/public/css/posts/linguistics.css"
+  rel="stylesheet"
+  type="text/css"
+/>{{end}} {{define "body"}}
+
+
+  
+
+  
+    <div
+      class="single-post-thumbnail d-flex align-items-center justify-content-center mb-6"
+    >
+      <img
+        src="/public/images/writing/italian_passato_prossimo_indicative.webp"
+        alt="conjugation of the Italian present indicative"
+      />
+    
+    Introduction
+    
+      The Passato Prossimo is used for actions that happened at a specific time
+      in the recent past and have been completed. It is composed of two things,
+      a helping verb and a participle verb. The helping verbs are
+      essere and avere</i
+      >. If the verb uses the auxiliary essere</i
+      >, then the participle must agree in number and gender
+    
+
+    Conjugation of the Participle Past
+    
+      
+        -are
+        
+          singular: ato
+          plural: ati
+        
+      
+      
+        -ere
+        
+          singular: uto
+          plural: uti
+        
+      
+      
+        -ire
+        
+          singular: ito
+          plural: iti
+        
+      
+    
+
+    Irregularities
+
+    
+      Most verbs use the auxiliary verb avere, however, verbs that convey
+      movement use the verb essere along with other few ones like
+      the verb essere itself.
+      <span class="bg-eta"
+        >The Passato Prossimo is by far the most common tense of the past in
+        Italian.</span
+      >
+      
+    
+    
+      Examples:
+      
+        singular masculine: Lui è mangiato dal cane.
+        singular feminine: Lei è vista dalla polizia.
+        plural masculine: Loro sono partiti presto.
+        plural feminine: Loro sono mangiate dalle formiche.
+      
+    
+
+    When to Use
+    
+      It may be used in most situations where the English “I have done” or “I
+      did” would satisfy the case.
+    
+
+    Examples
+    
+      Recent Actions:
+      
+        🇮🇹 Ho mangiato una mela.
+        🇲🇽 He comido una manzana.
+        🇺🇸 I have eaten an apple.
+      
+    
+
+    
+      Actions Completed at an Unspecified Time in the Past:
+      
+        🇮🇹 Abbiamo visto quel film molte volte.
+        🇲🇽 Hemos visto esa película muchas veces.
+        🇺🇸 We have watched that movie many times.
+      
+    
+
+    
+      Actions That Have Relevance to the Present:
+      
+        🇮🇹 Hanno finito i compiti.
+        🇲🇽 Han terminado los deberes.
+        🇺🇸 They have finished their homework.
+      
+    
+
+    To Christ be the Glory!
+    Luke 17:10
+  
+
+{{ end}}

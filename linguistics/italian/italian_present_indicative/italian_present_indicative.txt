@@ -1,0 +1,131 @@
+{{ template "single_post_base" .}} {{define "css"}}
+<link
+  href="/public/css/posts/linguistics.css"
+  rel="stylesheet"
+  type="text/css"
+/>{{end}} {{define "body"}}
+
+
+  
+
+  
+    <div
+      class="single-post-thumbnail d-flex align-items-center justify-content-center mb-6"
+    >
+      <img
+        src="/public/images/writing/italian_present_indicative.webp"
+        alt="conjugation of the Italian present indicative"
+      />
+    
+    Introduction
+    
+      The Italian present tense is by far the easiest and most common
+      conjugation of the Italian verbs, and perhaps of the verbs in any
+      language.
+    
+
+    Conjugation
+    
+      
+        -are
+        
+          singular: o, i, a
+          plural: iamo, ate, ano
+        
+      
+      
+        -ere
+        
+          singular: o, i, e
+          plural: iamo, ete, ono
+        
+      
+      
+        -ire
+        
+          singular: o, i , e
+          plural: iamo, ite, ono
+        
+      
+    
+
+    Irregularities
+
+    
+      Irregularities concerning the -are termination
+      are verbs which root ends in G or C. These verbs adopt an
+      H to dull the sound of the C and G (think of the
+      U in the Spanish to dull the G sound). This procedure is
+      applied to the 2S and 1P.
+      
+      <span class="d-block mt-2 border-top border-alpha ms-4"
+        >Examples: giocare, pagare → h → giochi,
+        paghi.</span
+      >
+    
+    
+      A second irregularity rule comes packed in the verb roots ending in
+      I. To these, the I is simply removed in the 2S and 1P at the
+      time of conjugating it.
+      
+      <span class="d-block mt-2 border-top border-alpha ms-4"
+        >Examples: mangiare → i → mangi (notice that if it was
+        not removed it would be magii)</span
+      >
+    
+    
+      For the termination, -ire the conjugational
+      irregularities include verbs like capire, pulire, finire, obbedire, etc.
+      None of these irregularities follow a rule. They must be memorized. Such
+      irregular verbs are conjugated as follows: - The last letter of the verb
+      stem takes on a SC for the 1S, 2S, 3S, and 3P.
+
+      
+      <span class="d-block mt-2 border-top border-alpha ms-4"
+        >Example: capire, pulire, finire → sc → capisco,
+        pulisco, finisco.</span
+      >
+    
+
+    Examples
+    
+      Actions Happening Now:
+      
+        🇮🇹 Mangio una mela.
+        🇲🇽 Como una manzana.
+        🇺🇸 I am eating an apple.
+      
+    
+
+    
+      Habitual Actions:
+      
+        🇮🇹 Vado a scuola tutti i giorni.
+        🇲🇽 Voy a la escuela todos los días.
+        🇺🇸 I go to school every day.
+      
+    
+
+    
+      General Truths:
+      
+        🇮🇹 Il sole sorge a est.
+        🇲🇽 El sol sale por el este.
+        🇺🇸 The sun rises in the east.
+      
+    
+
+    
+      Scheduled Future Events:
+      
+        🇮🇹 Domani parto per Roma.
+        🇲🇽 Mañana parto para Roma.
+        🇺🇸 I leave for Rome tomorrow.
+      
+    
+
+    To Christ be the Glory!
+    Luke 17:10
+  
+  {{ end}}
+
