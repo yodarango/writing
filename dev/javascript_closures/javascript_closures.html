@@ -1,0 +1,266 @@
+{{ template "single_post_base" .}} {{define "css"}}
+<link
+  href="/public/css/posts/dev.css"
+  rel="stylesheet"
+  type="text/css"
+/>{{end}} {{define "body"}}
+
+<div class="content-container">
+  <!-- post content  -->
+
+  <div class="content-container__body">
+    <div
+      class="single-post-thumbnail d-flex align-items-center justify-content-center mb-6"
+    >
+      <img
+        src="/public/images/writing/thumbnails/{{.Data.Thumbnail}}"
+        alt="Small box inside bigger box"
+      />
+    </div>
+    <h3 class="color-iota mb-2">Abstract</h3>
+    <p>
+      This article is the result of cumulative knowledge through both practical
+      experience and academic research concerning the subject of closures in
+      Javascript. The purpose of the research was to personally develop a better
+      perception of this characteristic of the language. I am not a narcissist
+      who presumes millions of people will be engaging with his article in the
+      future, thus, this article is not aimed to teach anyone other than myself.
+      I do not mean to say that I hope you find this article a trivial vacuum of
+      time. The truth is that, just as any writer, I desire that my content
+      proves practical and didactical to the readers. I only must declare that
+      this is not the primary intent of it.
+    </p>
+
+    <h3 class="color-iota mt-6 mb-2">Closures</h3>
+
+    <p class="mb-4">
+      Closures are one of the most intricate elements of Javascript. They can be
+      challenging to understand and, sometimes, even more challenging to
+      explain. Yet, in simple terms, a closure may be defined as a "function,
+      inside a function."<a
+        class="biblio-resource"
+        id="footnote-ref-1"
+        href="#footnote-1"
+        >[1]</a
+      >
+    </p>
+    <p class="mb-4">Figure 1: Example of a closure.</p>
+    <article class="code">
+      <code>
+        <pre class="color-iota">
+            <b class="color-chi">function</b> <span class="color-phi">outerFunction()</span> <span class="color-upsilon">{</span>
+                  <b class="color-chi">const</b> <span class="color-phi">outerVariable</span> = "I am an outer variable";
+                  <b class="color-chi">function</b> <span class="color-phi">innerFunction()</span> <span class="color-upsilon">{</span>
+                  <b class="color-chi">console</b>.<b>log</b>(outerVariable);
+                 <span class="color-upsilon"> }</span>
+                  <b class="color-chi">return</b> <span class="color-phi">innerFunction</span>
+            <span class="color-upsilon">}</span>
+            <b class="color-chi">const</b><span class="color-phi"> myFunction</span> =<span class="color-phi"> outerFunction()</span>;
+            <span class="color-phi">myFunction();</span> <span class="color-rho">// Output: I am an outer variable</span>
+            </pre>
+      </code>
+    </article>
+    <p class="mb-4">
+      Being a Javascript erudite is not a prerequisite to start using closures.
+      All Javascript developers, amateur and expert, have used, or at least
+      read, a closure at some point in their career,
+      <a id="footnote-ref-2" class="biblio-resource" href="#footnote-2">[2]</a>
+      as they are almost everywhere.
+      <a id="footnote-ref-3" class="biblio-resource" href="#footnote-3">[3]</a>
+      During my initial stages of Javascript learning, I remember encountering
+      the following scenario:
+    </p>
+    <article class="code">
+      <code class="mb-4">
+        <pre
+          class="color-iota"
+        ><b class="color-chi">const</b> app = <span class="color-phi">express()()</span>; </pre>
+      </code>
+    </article>
+    <p class="mb-4">
+      My initial response to the functional expression above was to assume that,
+      for some obscure reason, Javascript permitted certain functions to be
+      invoked twice. I did not recall learning any programming techniques of the
+      same nature in college.
+      <a id="footnote-ref-4" class="biblio-resource" href="#footnote-4">[4]</a>
+      Therefore, I was led to adopt the notion that this was a concept
+      particular to Javascript. But invoking the same function twice is not
+      possible in any programming language.
+      <a id="footnote-ref-5" class="biblio-resource" href="#footnote-5">[5]</a>
+      In retaking the express example provided above, it is only needed to
+      locate the app’s main function in the express library to discover that
+      this is not the representation of a function being called twice. This is
+      only one example of a closure. Perhaps one of NodeJs’s most well-known
+      closures, given the popularity of the express library.6 In a similar way,
+      the Hero Narratives have in focus the heroic achievements of a specific
+      character with the aim to exemplify a particular principle for the reader.
+      When reading these kinds of narratives good questions to ask are, what
+      kind of values is the main character inculcating? What can I learn from
+      the manner in which they acted? After answering these questions the reader
+      can ask how these values support or intensify the theme of the broader
+      body surrounding it.
+    </p>
+
+    <h3 class="color-iota mt-6 mb-2">
+      Where There Is a Function There Is a Closure
+    </h3>
+
+    <p class="mb-4">
+      Functions can be thought of as closure creators but closures are not
+      limited to the bundling of two or more functions.
+    </p>
+
+    <article class="code">
+      <code>
+        <pre class="color-iota">
+            <b class="color-chi">function</b> <span class="color-phi">myFunctionInGlobalScope()</span><span class="color-upsilon">{</span>
+                  <b class="color-chi">const</b> <span class="color-phi">outerVariable</span> = "I am an outer variable";
+            <span class="color-upsilon">}</span>
+            </pre>
+      </code>
+    </article>
+    <p class="mb-4">
+      The image above is nothing that a Javascript developer, regardless of
+      their experience tier, has not seen before. Yet, even a simple instance as
+      this one, is a closure.<a
+        id="footnote-ref-7"
+        class="biblio-resource"
+        href="#footnote-7"
+        >[7]</a
+      >
+      In Javascript we would define this closure, a closure within the global
+      scope. This means that it does not matter where we find ourselves in the
+      code, we have access to it. This concept is true about all closures, not
+      only those instantiated at the global scope. Moreover, the greatness of
+      Javascript allows us to keep the state of a closure in memory through its
+      context. In programming jargon this is called lexical scoping or lexical
+      context.<a
+        id="footnote-ref-10"
+        class="biblio-resource"
+        href="#footnote-10"
+        >[10]</a
+      >
+      The definition of the lexical context of a function can be said to be all
+      the variables accessible at the time of declaration.9
+    </p>
+
+    <h3 class="color-iota mt-3 mb-2">When Are Closures Helpful?</h3>
+
+    <p>
+      In essence, it could be said that closures are functions declared inside
+      another function.<a
+        id="footnote-ref-10"
+        class="biblio-resource"
+        href="#footnote-10"
+        >[10]</a
+      >
+      Yet, the benefit of nesting one function inside another must be explained.
+      If a function returns another function, would it not be easier to return
+      the value directly, rather than a function around it? Yes it would. But
+      this would work only when the function’s value needs to be accessed
+      directly. Nonetheless, this is not always the case. In addition, returning
+      a function, rather than its computed value directly, means that we can
+      enhance a function by wrapping it with another function. This is often
+      called a function factory in programming. In conclusion, closures are
+      helpful when we need to:
+    </p>
+    <ul>
+      <li>Maintain state between function calls.</li>
+      <li>
+        Create private variables that are not accessible from outside the
+        function.
+      </li>
+      <li>
+        Pass around functions that remember the environment where they were
+        created.
+      </li>
+    </ul>
+
+    <h4 class="fs-5 color-lambda mt-8 mb-2">To Christ be the Glory!</h4>
+    <h5 class="opacity-60">Luke 17:10</h5>
+
+    <!-- footnotes -->
+    <h3 class="color-iota mt-6 mb-2">Footnotes</h3>
+    <section class="mb-6 section-block-footnotes">
+      <p>
+        <a class="biblio-resource" id="footnote-1" href="#footnote-ref-1"
+          >[1]</a
+        >
+        MDN Web Docs, "Closures," <i>Mozilla Developer Network</i>, accessed
+        August 9, 2024,
+        https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures.
+      </p>
+      <p>
+        <a class="biblio-resource" id="footnote-2" href="#footnote-ref-2"
+          >[2]</a
+        >
+        2 Ved Antani,
+        <i
+          >Mastering JavaScript: Explore and Master Modern JavaScript Techniques
+          in Order to Build Large-Scale Web Applications</i
+        >, Community Experience Distilled, (Birmingham, UK: Packt Publishing,
+        2016), 68.
+      </p>
+      <p>
+        <a class="biblio-resource" id="footnote-3" href="#footnote-ref-3"
+          >[3]</a
+        >
+        Antani, <i>Mastering JavaScript</i>, 68.
+      </p>
+      <p>
+        <a class="biblio-resource" id="footnote-4" href="#footnote-ref-4"
+          >[4]</a
+        >
+        This was attributed to the fact that none of the programming languages I
+        utilized in college allowed closures as they are known in the
+        traditional sense.
+      </p>
+      <p>
+        <a class="biblio-resource" id="footnote-5" href="#footnote-ref-5"
+          >[5]</a
+        >
+        I mean, at least not in the ones I am acquainted with.
+      </p>
+      <p>
+        <a class="biblio-resource" id="footnote-6" href="#footnote-ref-6"
+          >[6]</a
+        >
+        At the time of writing the express library is among the most popular
+        Javascript packages.
+      </p>
+      <p>
+        <a class="biblio-resource" id="footnote-7" href="#footnote-ref-7"
+          >[7]</a
+        >
+        Antani, <i>Mastering JavaScript</i>, 68.
+      </p>
+      <p>
+        <a class="biblio-resource" id="footnote-8" href="#footnote-ref-8"
+          >[8]</a
+        >
+        Ved Antani, Simon Timms, and Dan Mantyla,
+        <i
+          >JavaScript: Functional Programming for JavaScript Developers,
+          Learning Path</i
+        >
+        (Birmingham: Packt Publishing, 2016), 52.
+      </p>
+      <p>
+        <a class="biblio-resource" id="footnote-9" href="#footnote-ref-9"
+          >[9]</a
+        >
+        Antani, <i>Mastering JavaScript</i>, 68.
+      </p>
+      <p>
+        <a class="biblio-resource" id="footnote-10" href="#footnote-ref-10"
+          >[10]</a
+        >
+        Function factories are helpful when we need to create functions that
+        share similar computations or when we need to instantiate the same
+        function more than once while maintaining each its own state. For more
+        information about closures see Mozilla.
+      </p>
+    </section>
+  </div>
+</div>
+{{end}}

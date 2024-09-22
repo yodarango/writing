@@ -1,0 +1,24 @@
+{{ template "single_post_base" .}} {{define "css"}} {{end}} {{define "body"}}
+<div class="content-container">
+  <!-- post content  -->
+
+  <div
+    class="single-post-thumbnail d-flex align-items-center justify-content-center mb-6"
+  >
+    <img
+      src="/public/images/writing/thumbnails/{{.Data.Thumbnail}}"
+      alt="{{.Data.Title}}"
+    />
+  </div>
+  <p>
+    There is a law in thermodynamics that states that all things tend toward a
+    state of deterioration. It seems to me that this law applies not only to the
+    physical world but also to the world of abstracts. For example, words, which
+    once had a very intense meaning, with frequent use over time lose this
+    intensity. The word 'terrible,' for instance, in the past represented
+    something particularly frightening. But today, we find it used in everyday
+    conversations. Thus, the cycle repeats itself, creating the need for new
+    words.
+  </p>
+</div>
+{{end}}
