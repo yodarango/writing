@@ -1,0 +1,29 @@
+{{ template "single_post_base" .}} {{define "css"}} {{end}} {{define "body"}}
+<div class="content-container">
+  <!-- post content  -->
+
+  <div
+    class="single-post-thumbnail d-flex align-items-center justify-content-center mb-6"
+  >
+    <img
+      src="/public/images/writing/thumbnails/{{.Data.Thumbnail}}"
+      alt="{{.Data.Title}}"
+    />
+  </div>
+  <p>
+    Il dottor J. P. Moreland afferma che ci sono molti principi morali che
+    sembrano risiedere nel cuore di ogni essere umano sano di mente. Alcuni li
+    spiegano attraverso il processo evolutivo, mentre altri li affrontano da un
+    punto di vista filosofico. Egli confuta con successo entrambe le posizioni.
+    Propongo che la maggior parte di queste virtù si fondino sul principio che
+    il danno sia male solo se i risultati non portano guadagni a chi infligge il
+    danno o al resto dell'umanità. Ad esempio, una considerevole percentuale
+    della popolazione mondiale accetta l'uccisione di un bambino sotto il titolo
+    di aborto, ma molto raramente qualcuno accetta l'uccisione dello stesso
+    bambino se l'unico motivo è il divertimento. Così, ho imparato che c'è una
+    legge in azione nella categorizzazione di questi principi, poiché non sono
+    classificati in base al livello di danno che causano, ma piuttosto in base
+    all'intenzionalità con cui sono eseguiti.
+  </p>
+</div>
+{{end}}

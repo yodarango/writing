@@ -1,0 +1,29 @@
+{{ template "single_post_base" .}} {{define "css"}} {{end}} {{define "body"}}
+<div class="content-container">
+  <!-- post content  -->
+
+  <div
+    class="single-post-thumbnail d-flex align-items-center justify-content-center mb-6"
+  >
+    <img
+      src="/public/images/writing/thumbnails/{{.Data.Thumbnail}}"
+      alt="{{.Data.Title}}"
+    />
+  </div>
+  <p>
+    Dr. J.P. Moreland states that there are many moral principles that seem to
+    reside at the core of every sane human being. Some explain them through the
+    process of evolution, while others approach them from a philosophical
+    standpoint. He successfully debunks both approaches. I propose that most of
+    these virtues are founded on the principle that harm is bad only if the
+    results do not yield gains for the one inflicting the harm or for the rest
+    of humanity. For example, a considerable percentage of the world population
+    is okay with the killing of a baby under the label of abortion, but very
+    rarely is anyone okay with the killing of the same child if the sole motive
+    is diversion. Thus, I have learned that there is a law at work in the
+    categorization of these principles, for they are not categorized by the
+    level of harm they cause but rather by the intentionality with which they
+    are executed.
+  </p>
+</div>
+{{end}}

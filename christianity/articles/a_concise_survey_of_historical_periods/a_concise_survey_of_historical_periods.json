@@ -667,5 +667,79 @@
         "description": "By the end of the 19th century, tensions were rising in Europe, with growing nationalism, militarism, and colonial rivalries foreshadowing the outbreak of World War I in 1914. The Catholic Church, particularly under Pope Leo XIII, sought to mediate and promote peace, but the war marked the beginning of a period of great upheaval for both Christianity and European society. The conflict would reshape the religious, political, and cultural landscape, setting the stage for the challenges of the 20th century."
       }
     }
+  },
+  "modern_era": {
+    "name": "Modern Era",
+    "span": "20th Century – Present",
+    "description": "The Modern Era has been marked by rapid advancements in technology, ideological shifts, and global conflicts, all of which have significantly impacted Christianity. From a Christian perspective, the rise of secularism, atheism, and totalitarian ideologies such as communism and fascism challenged the role of religion in society. Meanwhile, the Church saw both decline and resurgence, with movements like Pentecostalism growing exponentially in the Global South. This era also brought significant social and ethical challenges, such as the sexual revolution, civil rights movements, and debates over the role of religion in public life. Despite growing secularism, Christianity continues to play a critical role in shaping moral discourse in many parts of the world.",
+    "key_points": {
+      "1": {
+        "name": "World Wars and Christianity",
+        "span": "1914 - 1945",
+        "description": "World War I and World War II profoundly shook Christian Europe. The devastation caused by these conflicts led to widespread disillusionment with traditional religious authority. The Holocaust raised significant questions about evil and the role of the Church in resisting such atrocities. Christian resistance movements, such as those led by Dietrich Bonhoeffer, sought to confront the moral failures of the time, while the aftermath of the wars saw a renewed interest in peace and justice."
+      },
+      "2": {
+        "name": "The Cold War and Religious Persecution",
+        "span": "1947 - 1991",
+        "description": "During the Cold War, communism, particularly in the Soviet Union and China, promoted atheism and suppressed religious expression. Christians faced persecution, with churches being destroyed or forced underground. In contrast, the West saw Christianity become a symbol of freedom in opposition to the atheist regimes. Figures like Pope John Paul II played crucial roles in the fall of communism in Eastern Europe, particularly through their support of movements like Poland’s Solidarity."
+      },
+      "3": {
+        "name": "The Rise of Secularism and Postmodernism",
+        "span": "1960s - Present",
+        "description": "In the late 20th century, secularism and postmodernism gained significant traction, particularly in Western societies. Postmodernism questioned absolute truths, including Christian doctrines, while secularism promoted the idea of religion being a private rather than public affair. This period saw a decline in church attendance in many Western countries, but also the rise of movements advocating for Christian values in politics, particularly among evangelical groups in the United States."
+      },
+      "4": {
+        "name": "Pentecostal and Evangelical Growth",
+        "span": "1906 - Present",
+        "description": "While Christianity saw decline in the West, the Global South experienced a remarkable religious revival, particularly through Pentecostalism. Starting with the Azusa Street Revival in 1906, Pentecostalism spread rapidly across Africa, Latin America, and Asia. Evangelicalism also grew in influence, particularly in the United States, where figures like Billy Graham became prominent. These movements emphasized personal conversion, a vibrant spiritual life, and social engagement."
+      },
+      "5": {
+        "name": "Social Justice and Christian Activism",
+        "span": "1950s - Present",
+        "description": "Throughout the Modern Era, Christians have been deeply involved in social justice movements. The American Civil Rights Movement, led by figures like Rev. Dr. Martin Luther King Jr., was rooted in Christian principles of equality and justice. In addition, movements like the Catholic social justice initiatives and evangelical support for pro-life causes became major forces advocating for the rights of the marginalized and oppressed."
+      },
+      "6": {
+        "name": "Technological and Ethical Challenges",
+        "span": "21st Century",
+        "description": "The rapid advancement of technology in the 21st century has presented new ethical challenges for Christians. Debates over issues like artificial intelligence, gene editing, and bioethics have emerged. Moreover, the rise of social media and the internet has transformed how Christians engage with the world, presenting both opportunities for evangelism and new challenges regarding moral and ethical guidance in the digital age."
+      }
+    }
+  },
+  "postmodern_era": {
+    "name": "Postmodern Era",
+    "span": "Late 20th Century – Present",
+    "description": "The Postmodern Era is characterized by skepticism toward meta-narratives, including religious and philosophical systems, and a rejection of absolute truth. From a Christian perspective, this period has presented both challenges and opportunities for the Church. The rise of relativism, pluralism, and individualism has made traditional Christian teachings on truth, morality, and salvation harder to defend in the public sphere. However, the Postmodern Era also opened space for Christians to explore new forms of cultural engagement and theological reflection that resonate with a more fragmented, diverse world. The Church continues to grapple with its role in a postmodern, pluralistic society where secularism, religious pluralism, and spiritual but not religious trends dominate.",
+    "key_points": {
+      "1": {
+        "name": "Philosophical Shift to Relativism",
+        "span": "1960s - Present",
+        "description": "Postmodernism rejects the idea of universal truths, instead promoting the belief that truth is subjective and constructed by cultural, social, and personal factors. This has posed a significant challenge to Christianity, which holds to the existence of absolute moral and theological truths. The Church has had to adapt its approach to evangelism and apologetics, often focusing on personal experience, community, and storytelling to communicate the Christian message."
+      },
+      "2": {
+        "name": "Pluralism and Religious Diversity",
+        "span": "1970s - Present",
+        "description": "In an increasingly pluralistic world, the Postmodern Era has seen a rise in religious diversity, with multiple belief systems coexisting in the same social and cultural spaces. Christianity has had to engage with other world religions and secular philosophies, leading to both interfaith dialogues and tensions. This period has raised important theological questions about the exclusivity of Christ as the only way to salvation, leading to discussions on inclusivism, universalism, and the mission of the Church in a pluralistic society."
+      },
+      "3": {
+        "name": "The Deconstruction of Christian Institutions",
+        "span": "1980s - Present",
+        "description": "Postmodern skepticism has extended to institutions, including churches. Many people, particularly younger generations, have distanced themselves from traditional denominations, seeking spiritual fulfillment outside of institutional structures. This has led to the rise of house churches, emerging church movements, and non-denominational congregations. While some see this as a decline in Christian influence, others view it as an opportunity to return to more authentic, grassroots expressions of faith."
+      },
+      "4": {
+        "name": "The Rise of Spiritual but Not Religious (SBNR) Movements",
+        "span": "1990s - Present",
+        "description": "As institutional religion declined, there has been a growing movement of people identifying as 'spiritual but not religious' (SBNR). These individuals often seek spirituality outside traditional Christian frameworks, embracing a personalized, eclectic approach to faith."
+      },
+      "5": {
+        "name": "Postmodern Theological Reflection",
+        "span": "1990s - Present",
+        "description": "The Postmodern Era has prompted significant theological reflection within the Christian community. Much which has resulted in unorthodox beliefs. Thinkers like Stanley Grenz and John Caputo have explored postmodern theology, which often emphasizes narrative, mystery, and relationality over systematic, doctrinal approaches. Something unacceptable for conservative Christians. This era has also seen increased interest in contextual theologies that speak to specific cultural, social, and political contexts, deviating even more from healthy Christian doctrine."
+      },
+      "6": {
+        "name": "Cultural Engagement and the Arts",
+        "span": "Late 20th Century - Present",
+        "description": "Postmodernism’s embrace of pluralism and creative expression has led many churches to engage more deeply with the arts and culture as mediums for conveying spiritual and theological messages. In music, film, visual arts, and literature, Christian themes have been explored in ways that resonate with a postmodern audience. Which for the most part, has been detrimental to the body of Christ. Churches have employed these tactics with the purpose of attracting more people, but in the process, they have watered down the Gospel message."
+      }
+    }
   }
 }
